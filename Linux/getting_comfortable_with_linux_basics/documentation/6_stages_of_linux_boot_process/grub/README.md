@@ -1,4 +1,4 @@
-## 3. Grand Unified Bootloader (GRUB)
+# 3. Grand Unified Bootloader (GRUB)
 
 Grand Unified Bootloader (GRUB) displays a splash screen, waits for few seconds, and loads the default kernel image as specified in the grub configuration file.
 

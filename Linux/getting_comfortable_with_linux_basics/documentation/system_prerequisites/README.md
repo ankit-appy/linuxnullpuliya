@@ -1,4 +1,4 @@
-## System Prerequisites
+# System Prerequisites
 
 1. Download and install [Xtreme Download Manager](http://xdman.sourceforge.net/)
 

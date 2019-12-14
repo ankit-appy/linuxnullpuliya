@@ -1,4 +1,4 @@
-## 1. Basic Input/Output System (BIOS)
+# 1. Basic Input/Output System (BIOS)
 
 After a system powers up, the BIOS (*Basic Input/Output System*) does minimal hardware initialization and hands over control to the boot loader
 .

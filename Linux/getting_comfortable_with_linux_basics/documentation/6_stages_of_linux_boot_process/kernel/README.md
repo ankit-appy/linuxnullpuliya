@@ -1,4 +1,4 @@
-## 4. Kernel
+# 4. Kernel
 
 A linux kernel is responsible for handling Process management, Memory Management, Users, Inter process communication etc. The kernel loads an initial RAM disk (`initrd`) that loads the system drives and then looks for the root file system.
 

@@ -1,4 +1,4 @@
-## GNU/Linux
+# GNU/Linux
 
 **GNU** stands for *GNU Not Unix*. It was designed to be an open source *operating system* that is backwards compatible with Unix operating systems. GNU packages are packages designed to be shared, modified and run wherever you want, for whatever purpose.
 

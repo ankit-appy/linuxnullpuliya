@@ -1,4 +1,4 @@
-## 6. Runlevel
+# 6. Runlevel
 
 The current operating state of an operating system is known as a *runlevel*. In `systemd`, **targets** are the new *runlevels*. 
 

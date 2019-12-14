@@ -1,4 +1,4 @@
-## 5. Init
+# 5. Init
 
 `init` is the first process that starts when a computer boots, making it the parent of all other running processes directly or indirectly.
 

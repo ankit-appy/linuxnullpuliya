@@ -1,4 +1,4 @@
-## 2. Master Boot Record (MBR)
+# 2. Master Boot Record (MBR)
 
 Master Boot Record (MBR) is located in the 1st sector of the bootable disk, which is typically `/dev/hda`, or, `/dev/sda`. This is the location that contains the program that will help our computer to load the operating system.
 
